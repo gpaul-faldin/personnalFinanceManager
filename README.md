@@ -4,4 +4,4 @@ The goal of it is to handle multiple users and make cool visualisation of your f
 
 I might use echarts or similar when I have a better understanding of Swing.
 
-Appart from that, I liked that Java experiment but I'm far from being fluent for reading or writing Java code
+Apart from that, I liked that Java experiment, but I'm far from being fluent for reading or writing Java code
